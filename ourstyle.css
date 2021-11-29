@@ -1,0 +1,121 @@
+ body{
+  background-color:azure;
+}
+
+h1{
+  border:10px, none;
+  background-color: lightcoral;
+  width:100%;
+  padding:2px;
+  margin:auto;
+}
+
+
+.hours{
+  Font-family: "Arial";
+  border: 3px dotted blue;
+  color: black;
+text-align: center;
+}
+
+
+
+#contact-form {
+  border: 10px solid turquoise;
+  padding:10px;
+  box-shadow: 1px 1px 1px 1px black;
+  text-align: center;
+  margin: auto;
+ }
+ 
+ .heading{
+   border:10px solid darkblue;
+   text-align: center;
+   background-color: white;
+   color:darkred;
+   margin:auto;
+ }
+ table,td{
+   
+   border: 3px solid gainsboro;
+   width:100%;
+   padding:5px;
+   align-self: t;
+   color:darkblue;
+   font: 20px bold;
+   
+ }
+ /*th{
+   background-color: lightblue;
+ }*/
+ td,th{
+    background-color:lightgreen;
+    padding:10px 20px;
+ }
+ .lightblue{
+   background-color:rgb(235,235,235);
+   color:darkred;
+   font:30px bolder;
+   text-transform: uppercase;
+   }
+   li{
+     display:inline-block;
+     padding:3px;
+     border:2px;
+     background-color:aquamarine;
+     text-align: center;
+     color: #150050;
+   }
+   .back{
+     background-color: lightblue;
+     border:none;
+      
+     
+
+   }
+   #email{
+      background-color: lightblue;
+      border:none;
+   }
+
+ #blog{
+   float:right;
+   width: 50%;
+ }
+
+ .news{
+   
+   width: 50%;
+ }
+
+ #call-us{
+   float: right;
+ }
+
+ .questions{
+   width:505
+ }
+
+ .bestItems{
+
+   width: 50%;
+ }
+ label{
+   color:darkblue;
+   font:20px bold;
+   padding-bottom: 40px;
+ }
+ textarea{
+   color:darkblue;
+   font:20px bold;
+   padding-bottom: 40px;
+
+ }
+ .button{
+   margin:0.5px;
+   padding:10px;
+   background-color:rgb(59, 207, 226);
+   color:rgb(87, 12, 18);
+   font: 20px bolder;
+   text-transform:uppercase;
+ }
